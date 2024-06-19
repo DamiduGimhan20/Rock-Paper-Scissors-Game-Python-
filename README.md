@@ -34,7 +34,7 @@ Include screenshots of the game interface here (if applicable).
 - Includes images for rock, paper, and scissors choices.
 
 ## Author
-- [Damidu Gimhan(https://github.com/DamiduGimhan20)
+- [Damidu Gimhan](https://github.com/DamiduGimhan20)
 
 ## License
 This project is licensed under the MIT License.
